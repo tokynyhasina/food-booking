@@ -1,0 +1,7 @@
+{
+  "products": [
+    { "name": "pizza", "price": 50, "count": 0 },
+    { "name": "humberger", "price": 40, "count": 0 },
+    { "name": "Frite", "price": 30, "count": 0 }
+  ]
+}
